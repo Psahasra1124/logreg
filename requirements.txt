@@ -1,4 +1,4 @@
-flask
-requests
-pytest
-python-dotenv
+streamlit
+scikit-learn
+pandas
+numpy
